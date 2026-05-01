@@ -22,5 +22,5 @@ A Ray Marching visual simulator built in touchdesigner.
 
 ## Demo
 
-![Demo](https://cdn.jumpshare.com/preview/xwH09uZRfwTrahIAzSAcku_hcKFT6Tua0C2LjYwIPzTQfn3NT3MLzStiSZqR5w1eUnyqYqARqQMpdZJekZ3aM6PObK4-AwoLCeopEvPZ8mU)
+![Demo](https://github.com/BioSh0cked/Ray-Marcher/blob/master/BlackHoleSim.gif?raw=true)
 
